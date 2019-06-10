@@ -1,2 +1,0 @@
-global.token = "" // Recommended to load from json file.
-global.prefix = "."
